@@ -91,7 +91,7 @@
 
 </table>
 </details>
----
+<br>
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
@@ -116,7 +116,7 @@
 
 
 
-# 🤝 Connect With Me
+<h3> 🤝 Connect With Me</h3>
 
 <div align="center">
 
@@ -134,6 +134,6 @@
 
 <div align="center">
 
-### 🌱 Learn • Build • Improve • Repeat 🚀
+<h3>🌱 Learn • Build • Improve • Repeat 🚀<h3></h3>
 
 </div>
