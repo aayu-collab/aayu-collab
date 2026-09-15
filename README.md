@@ -27,7 +27,7 @@
   </details>
 
 ---
----
+
 <details>
 <summary><b>🛠️ Technical Skills</b></summary>
 
@@ -92,7 +92,7 @@
 
 </table>
 </details>
-<br>
+
 ---
 <h3>📊 GitHub Stats</h3>
 
