@@ -102,7 +102,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+<h3>🔥 GitHub Streak</h3>
 
 <div align="center">
 
