@@ -154,25 +154,9 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aayu-collab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayu-collab&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
 
 # 🤝 Connect With Me
 
@@ -182,7 +166,7 @@
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ayushi-rai-130a1632b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
