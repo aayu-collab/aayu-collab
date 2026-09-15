@@ -25,7 +25,8 @@
 - 🌱 Always Learning & Growing
 
 ---
-## 🛠️ Technical Skills
+<details>
+<summary>🛠️ Technical Skills</summary>
 
 <table>
 <tr>
@@ -87,48 +88,9 @@
 </tr>
 
 </table>
+</details>
 ---
 
-
-# 🚀 Featured Projects
-
-### 🚁 MALE UAV Digital Twin
-
-> AI/ML-powered Digital Twin for monitoring engine health, detecting anomalies and predicting possible failures.
-
-**Tech:** Python • AI/ML • Physics-based Modeling • Streamlit
-
----
-
-### 🛡️ SafeHer
-
-> Women safety application designed for emergency assistance with SOS alerts, location sharing and emergency contacts.
-
-**Tech:** Flutter • Node.js • Express.js • MongoDB
-
----
-
-### 📚 NoteFlow
-
-> AI-powered PDF Note Summarizer & Flowchart Generator that converts study material into structured notes.
-
-**Tech:** Python • Gemini API • MongoDB • Web Development
-
----
-
-# 🧠 DSA Journey
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Arrays-Important-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Strings-Learning-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Two%20Pointer-Practicing-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Binary%20Search-Practicing-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kadane-Learning-red?style=for-the-badge" />
-
-</p>
-
----
 
 # 📊 GitHub Stats
 
