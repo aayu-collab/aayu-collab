@@ -102,7 +102,7 @@
 
 ---
 
-<h3>🔥 GitHub Streak</h3>
+<h4>🔥 GitHub Streak</h4>
 
 <div align="center">
 
@@ -116,7 +116,7 @@
 
 
 
-<h3> 🤝 Connect With Me</h3>
+<h4> 🤝 Connect With Me</h4>
 
 <div align="center">
 
@@ -134,6 +134,6 @@
 
 <div align="center">
 
-<h3>🌱 Learn • Build • Improve • Repeat 🚀<h3></h3>
+<h4>🌱 Learn • Build • Improve • Repeat 🚀</h4>
 
 </div>
