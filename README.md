@@ -95,7 +95,8 @@
 
 
 <details> 
-  📊 GitHub Stats
+ < summary><b>
+  📊 GitHub Stats</b></summary>
 
 <div align="center">
 
