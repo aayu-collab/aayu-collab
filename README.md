@@ -95,14 +95,8 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=aayu-collab&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-collab&layout=compact&hide_border=true&theme=tokyonight"
-    height="180"
-  />
+  <img src="./profile/stats.svg" width="48%">
+  <img src="./profile/top-langs.svg" width="48%">
 </p>
 
 
