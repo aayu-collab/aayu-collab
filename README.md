@@ -94,7 +94,8 @@
 ---
 
 
-# 📊 GitHub Stats
+<details> 
+  📊 GitHub Stats
 
 <div align="center">
 
@@ -105,7 +106,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-collab&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
+</details>
 ---
 
 # 🔥 GitHub Streak
