@@ -92,22 +92,20 @@
 </table>
 </details>
 ---
+<h3>📊 GitHub Stats</h3>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aayu-collab&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-collab&layout=compact&hide_border=true&theme=tokyonight"
+    height="180"
+  />
+</p>
 
 
-<details> 
- < summary><b>
-  📊 GitHub Stats</b></summary>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aayu-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayu-collab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-</details>
 ---
 
 # 🔥 GitHub Streak
