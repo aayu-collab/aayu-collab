@@ -14,7 +14,8 @@
 
 ---
 
-## 👩‍💻 About Me
+<details>
+  <summary><b>👩‍💻 About Me</b></summary>
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 💻 Passionate about Software Development
@@ -23,6 +24,7 @@
 - 🤖 Exploring AI & Machine Learning
 - 🚀 Love building real-world projects
 - 🌱 Always Learning & Growing
+  </details>
 
 ---
 <details>
