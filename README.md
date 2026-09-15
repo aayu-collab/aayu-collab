@@ -95,7 +95,7 @@
 <h3>📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="./profile/stats.svg" height="170">
+  <img src="./profile/stats.svg" height="165">
   <img src="./profile/top-langs.svg" height="850">
 </p>
 
