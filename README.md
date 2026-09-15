@@ -26,7 +26,7 @@
 
 ---
 <details>
-<summary>🛠️ Technical Skills</summary>
+<summary><b>🛠️ Technical Skills</b></summary>
 
 <table>
 <tr>
