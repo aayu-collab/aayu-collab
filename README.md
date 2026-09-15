@@ -96,7 +96,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" height="170">
-  <img src="./profile/top-langs.svg" height="790">
+  <img src="./profile/top-langs.svg" height="800">
 </p>
 
 
